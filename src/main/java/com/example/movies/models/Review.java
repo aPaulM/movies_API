@@ -1,4 +1,4 @@
-package models;
+package com.example.movies.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
