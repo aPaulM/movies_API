@@ -17,7 +17,6 @@ import java.util.Optional;
 @RestController
 @RequestMapping("/api/v1/movies")
 public class MovieController {
-
     @Autowired // Super Busted way of Instantiating this service.
     private MovieService movieService;
 
